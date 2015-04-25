@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Volumes/Macintosh HD/work/kq/kindergarten_wxy/kindergarten.xcodeproj'
+let g:netrw_dirhist_2='/Users/wuxingyu/.vim'
+let g:netrw_dirhist_3='/Volumes/Macintosh HD/work/shihuitong3rd/shihuitong3rd_ios/trunk/Pods'
+let g:netrw_dirhist_4='/Volumes/Macintosh HD/webroot/express_web'
+let g:netrw_dirhist_5='/Users/wuxingyu/repository/viewfinder/third_party/shared/icu'
+let g:netrw_dirhist_6='/Users/wuxingyu/repository/viewfinder/third_party/shared'
+let g:netrw_dirhist_7='/Volumes/Macintosh HD/work/shihuitong3rd/shihuitong3rd_ios/trunk/StoneMobileADClient.xcworkspace'
